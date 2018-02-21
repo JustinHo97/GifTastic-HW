@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var buttons = ["Freddiew", "Seananners", "Mr. Sark", "Nigga Higa", "videogamedunkey", "", "ProZD"];
+    var buttons = ["Freddiew", "Seananners", "Mr. Sark", "NigaHiga", "Phillip DeFranco", "Primitive Technology", "ProZD"];
 
     createButtons(buttons);
 
